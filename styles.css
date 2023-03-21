@@ -1,0 +1,63 @@
+body{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.card {
+    width: 400px;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background: #aaa4a4;
+    border-radius: 15px;
+}
+
+.resultado {
+    margin: 90px 0 0 0;
+}
+
+
+
+h1{
+    font-family: sans-serif;
+    font-display: border;
+
+}
+input{
+    width : 100%;
+    height: 40%;
+    box-sizing: border-box;
+    border-radius: 10px;
+    border: 1px solid rgb(39, 32, 32);
+}
+#form{
+     width:40% ;
+   
+}
+button{
+    background-color:rgb(191, 69, 69) ;
+    color:black;
+    border :none;
+    width: 100%;
+    height: 40px;
+    box-sizing: border-box;
+    border-radius: 15px;
+
+}
+button:hover{
+   cursor:pointer;
+   background-color: blanchedalmond; 
+
+}
+h3{
+font-family: sans-serif;
+
+}
+
+
+
+
